@@ -23,7 +23,7 @@ STATUS_FILE = "bot_status.json"
 
 WELCOME_STICKER = "CAACAgUAAxkBAzO9_GorAYlsF8_CBld2lHD6eAbFv2YTAAJdEQACr3tRVZEquUWHNk4oPAQ"
 QR_IMAGE_PATH   = "qr.png"
-CARD_NUMBER     = "4100119552862877"   # ← ваша карта
+CARD_NUMBER     = ""   # ← ваша карта
 
 
 
